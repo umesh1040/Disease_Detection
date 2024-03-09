@@ -39,8 +39,8 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-diabetes_df = pd.read_csv("Datasets/diabetes.csv")
-heart_disease_df = pd.read_csv("Datasets/heart.csv")
+diabetes_df = pd.read_csv("Dataset/diabetes.csv")
+heart_disease_df = pd.read_csv("Dataset/heart.csv")
 
 selected_disease = st.selectbox(
     "Select a Disease",
