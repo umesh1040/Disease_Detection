@@ -41,7 +41,7 @@ st.markdown(
 st.write(
     "Our team comprises highly motivated and talented individuals who bring diverse backgrounds and expertise to the table. We believe in collaboration, innovation, and continuous learning. Each member contributes their unique skills and perspectives, fostering an environment of growth and knowledge-sharing."
 )
-project_guide_image_path = "Images\AboutSection\AAM.png"
+project_guide_image_path = "Images/AboutSection/AAM.png"
 col1, col2, col3 = st.columns([1.5, 2, 1])
 with col2:
     st.image(
