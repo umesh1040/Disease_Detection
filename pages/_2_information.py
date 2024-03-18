@@ -95,10 +95,10 @@ elif selected_disease == "Heart Disease":
 elif selected_disease == "Lung Cancer":
     col1, col2 = st.columns(2)
     col1.image(
-        "Images\Lungs\Bengin case.jpg", use_column_width=True, caption="Bengin Case"
+        "Images/Lungs/Bengin case.jpg", use_column_width=True, caption="Bengin Case"
     )
     col2.image(
-        "Images\Lungs\Malligent.jpg", use_column_width=True, caption="Malligent Case"
+        "Images/Lungs/Malligent.jpg", use_column_width=True, caption="Malligent Case"
     )
 
 st.markdown(
