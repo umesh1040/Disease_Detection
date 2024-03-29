@@ -1,2 +1,1 @@
-# Multiple-disease-dection
-
+# Multiple-disease-dection-application
